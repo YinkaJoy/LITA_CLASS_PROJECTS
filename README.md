@@ -63,8 +63,14 @@ The primary source of Data used is the Human Resource data provided by the compa
 ---
 Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;  
 
- - To retrieve the total sales for each product category;
+```SQL
+SELECT *FROM [dbo].[employee]
+select count(employeeno) from [dbo].[employee]
+group by gender;
+```
 
 ```SQL
-
- 
+SELECT *FROM [dbo].[employee]
+select count(employeeno), department from employee
+group by department
+```
