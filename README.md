@@ -1,13 +1,8 @@
-# LITA_CLASS_PROJECTS
-This is where I will document my Projects on Data Analysis with Incubator Hub.
+# LITA_CLASS_ACTIVITIES
+This is where I will document my class activities on Data Analysis with Incubator Hub.
 
-### Project Title: Computation in Excel
+### Project Title: Incubator Hub HR Data Analysis
 ---
-
-# LITA_CAPSTONE-PROJECT-2
-I will be documenting  my second project on customer behavioural pattern here.
-
-### Project Title: Deyinuad Flexipay Customer Behavioural Analysis
 
 ### Project Outline
 ---
@@ -28,24 +23,21 @@ I will be documenting  my second project on customer behavioural pattern here.
 
 [Recommendations](#recommendations)
 
+[Conclusion](#conclusion)
+
 
 
 ### Project Overview
 ---
-The aim of this project is to analyze and understand customer behaviour to gain insights into their purchasing habits, preferences, and pain points. This will enable the organization to:
- 1. Enhance customer experience
- 2. Improve customer retention
- 3. Increase sales and revenue
- 4. Optimize marketing strategies
-
+The aim of this project is to analyze the attrition rate of employee of a company based on their age, gender, marital status, Job description. The analysis includes deriving various objectives to understand the underlying issues and to propose actionable recommendations.
 
 ### Data Sources
 ---
-The primary source of Data used is the customer data provided by the organization.
+The primary source of Data used is the Human Resource data provided by the company. The data was provided in CSV format, making it accessible for analysis.
 
 ### Tools Used
 ---
-- Microsoft Excel [Download Here](https://1drv.ms/x/c/aad348901d0848c9/EVv2v2mzdsVEgBKDRT5cED4Bf0CpP803ccyhAtIAQ2wbgg)
+- Microsoft Excel [Download Here](https://1drv.ms/x/c/aad348901d0848c9/EQCZIc0H2NFAruPR4Hg0-mQBb5vRzleIwA5A2ZFT6eYsYg)
   1. For Data cleaning
   2. For Analysis.
 - SQL - Structured Query Language for querying of Data
@@ -54,7 +46,6 @@ The primary source of Data used is the customer data provided by the organizatio
 
 ### Data Cleaning and Preparation
 ---
- In the intial phase when I got the data, I performed the following action;
   1. Data loading and Inspection
   2. Removed duplicates
   3. Data Cleaning and Formatting
@@ -62,15 +53,12 @@ The primary source of Data used is the customer data provided by the organizatio
 ### Exploratory Data Analysis
 ---
  In exploring data for effective analysis, the following questions were asked;
- - What is the total sales for each product category?
- - What is the number of sales transactions in each region?
- - Which product is the highest-selling product by total sales value?
- - What is the total revenue per product?
- - What is the monthly sales totals for the current year.
- - Who are the top 5 customers by total purchase amount?
- - What is the percentage of total sales contributed by each region?
- - Which products have no sales in the last quarter?
-
+ - What is the total number of employee?
+ - What is the number of attrition?
+ - How many current employee do the company have?
+ - What department have the highest attrition rate?
+ - What gender have the highest attrition?
+ - 
 ### Data Analysis
 ---
 Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;  
@@ -79,41 +67,4 @@ Included are some basic lines of code or queries or even some of the DAX express
 
 ```SQL
 
- [Project Overview](#Project-Overview)
  
- [Data Sources](#Data-Sources)
- 
- [Tools used] 
- 
-
-### Project Overview
----
-
-
-### Data Sources
----
-
-
-### Tools used
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-    1. for Data Analysis
-    2. for Data cleaning
-- SQL-Structured Query Language for querying Data
-- GITHub for portfolio building
-
- ### Data Cleaning and preparation
-
-
-
- ```SQL
-SELECT * from table 1
-WHERE CONDITION = TRUE
-```
-
-😆:
-
-💻
-
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
