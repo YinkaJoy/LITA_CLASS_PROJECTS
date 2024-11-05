@@ -86,8 +86,7 @@ The data show about 63% of employee that left the company are male. Factors resp
  - Lack of job satisfaction
  - Poor work life balance 
      
-
-
+![AGE and GENDER](https://github.com/user-attachments/assets/26cc2237-6afc-4636-993c-df41b46eafb2)
 
 
 
