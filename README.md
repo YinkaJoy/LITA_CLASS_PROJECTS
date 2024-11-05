@@ -88,6 +88,10 @@ The data show about 63% of employee that left the company are male. Factors resp
      
 ![AGE and GENDER](https://github.com/user-attachments/assets/26cc2237-6afc-4636-993c-df41b46eafb2)
 
+### Insights:
+1. Employees in the age group of 25-24 have the highest attrition rate of about 112 employees(47%)
+2. Attrition rate decrease with increasing age.
+3. Older employees (over 55 years) have a relatively low attrition rate(5%).
 
 
 
