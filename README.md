@@ -58,7 +58,7 @@ The primary source of Data used is the Human Resource data provided by the compa
  - How many current employee do the company have?
  - What department have the highest attrition rate?
  - What gender have the highest attrition?
- - 
+   
 ### Data Analysis
 ---
 Included are some basic lines of code or queries or even some of the DAX expressions that were used during my analysis;  
@@ -79,10 +79,13 @@ group by department
 ---
 ![HR DASH BOARD](https://github.com/user-attachments/assets/09e057a0-19b5-4ca0-8758-9edab931f965)
 
-
-
-
-
+As illustrated in the figure above, out of a total of 1470 employees, an attrition rate of 16% was recorded that is about 237 employees left the company. Based on our analysis, the highest attrition rate in 
+gender is the male.
+The data show about 63% of employee that left the company are male. Factors responsible for this could be any of the following;
+        -  Low income rate
+        -  Lack of job satisfaction
+        -  Poor work life balance 
+     
 ![HR AGE AND GENDER DATA](https://github.com/user-attachments/assets/021a2b44-8415-49ad-9d3b-d5d38e7f6a5c)
 
 
