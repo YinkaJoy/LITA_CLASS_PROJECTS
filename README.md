@@ -74,3 +74,21 @@ SELECT *FROM [dbo].[employee]
 select count(employeeno), department from employee
 group by department
 ```
+
+### Data Visualization
+---
+![HR DASH BOARD](https://github.com/user-attachments/assets/09e057a0-19b5-4ca0-8758-9edab931f965)
+
+
+
+
+
+![HR AGE AND GENDER DATA](https://github.com/user-attachments/assets/021a2b44-8415-49ad-9d3b-d5d38e7f6a5c)
+
+
+
+
+
+
+![JOB AND EDUCATIONAL FIELD](https://github.com/user-attachments/assets/d661652b-5d61-4424-ab59-31b2127f7570)
+
