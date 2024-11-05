@@ -82,11 +82,11 @@ group by department
 As illustrated in the figure above, out of a total of 1470 employees, an attrition rate of 16% was recorded that is about 237 employees left the company. Based on our analysis, the highest attrition rate in 
 gender is the male.
 The data show about 63% of employee that left the company are male. Factors responsible for this could be any of the following;
-        -  Low income rate
-        -  Lack of job satisfaction
-        -  Poor work life balance 
+ - Low income rate
+ - Lack of job satisfaction
+ - Poor work life balance 
      
-![HR AGE AND GENDER DATA](https://github.com/user-attachments/assets/021a2b44-8415-49ad-9d3b-d5d38e7f6a5c)
+
 
 
 
