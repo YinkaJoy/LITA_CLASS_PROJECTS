@@ -94,7 +94,18 @@ The data show about 63% of employee that left the company are male. Factors resp
 3. Older employees (over 55 years) have a relatively low attrition rate(5%).
 
 
-
-
 ![JOB AND EDUCATIONAL FIELD](https://github.com/user-attachments/assets/d661652b-5d61-4424-ab59-31b2127f7570)
+
+### Recommendations
+---
+1. Develop career growth opportunities for younger employees.
+2. Improve work-life balance policies.
+3. Conduct regular salary reviews.
+4. Enhance job satisfaction through engaging work and recognition.
+5. Provide training and development programs for employees.
+
+### Conclusion
+---
+By analyzing attrition rates, the company can identify areas for improvement and develop targeted strategies to reduce employee turnover.
+
 
